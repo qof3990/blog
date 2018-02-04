@@ -1,4 +1,4 @@
-<p><canvas id="canvas1" width="580" height="200"></canvas></p>
+<canvas id="canvas1" width="580" height="200"></canvas>
 <script type="text/javascript">
                               var canvas1=document.getElementById("canvas1");
                               var ctx=canvas1.getContext("2d");
