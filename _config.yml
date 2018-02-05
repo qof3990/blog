@@ -20,7 +20,7 @@ description: 这是一个研究计算机图形图像的审美的博客。类似�
 #baseurl: /bobmuse.github.io # the subpath of your site, e.g. /blog
 url: https://qof3990.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
-github_username:  qof3990/blog/issues
+github_username: qof3990/blog/issues
 
 # Build settings
 markdown: kramdown
