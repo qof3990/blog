@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: BobMuse
-留言请到github/issues：https://github.com/qof3990/blog/issues
+留言请到github/issues github_username：https://github.com/qof3990/blog/issues
 description: 这是一个研究计算机图形图像的审美的博客。类似于平面构成的东西。使用canvas和js来作图。以后也许会加些别的技术。不过实现方法不是关注的焦点。
 #baseurl: /bobmuse.github.io # the subpath of your site, e.g. /blog
 url: https://qof3990.github.io # the base hostname & protocol for your site, e.g. http://example.com
